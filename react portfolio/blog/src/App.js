@@ -20,9 +20,10 @@ return (
 <About/>
 <Experience/>
 <Services/>
+<Portfolio/>
 {/* <Contact/>
 
-<Portfolio/>
+
 <Footer/>
 
 
