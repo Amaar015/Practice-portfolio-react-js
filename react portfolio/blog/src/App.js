@@ -22,13 +22,10 @@ return (
 <Services/>
 <Portfolio/>
 <Test/>
-{/* <Contact/>
+<Contact/>
+ <Footer/> 
 
 
-<Footer/>
-
-
- */}
 
 </>
 )
